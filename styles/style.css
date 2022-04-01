@@ -1,0 +1,36 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.container {
+    width: 100%;
+    display: flex;
+
+}
+.yellow {
+  display: flex;
+  width: 226px;
+  height: 337px;
+  left: 459px;
+  top: 582px;
+  background-color: #ffecbb;
+}
+
+.lilac {
+  display: flex;
+  width: 217px;
+  height: 380px;
+  left: 763px;
+  top: -539px;
+  background-color: #e7c1f9;
+}
+
+.blue {
+  display: flex;
+  width: 247px;
+  height: 351px;
+  left: 596px;
+  top: 1001px;
+  background-color: #84cef9;
+}
